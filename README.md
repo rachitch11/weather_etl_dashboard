@@ -35,7 +35,6 @@ Built to:
 
 weather_etl_dashboard/
 ├── etl/
-
 │ ├── extract.py
 
 │ ├── transform.py
