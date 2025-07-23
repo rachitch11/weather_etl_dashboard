@@ -1,4 +1,4 @@
-## ✅ **4. Weather Data ETL + Dashboard – `README.md`**
+## ✅  Weather Data ETL + Dashboard 
 
 ```markdown
 # 🌦️ Weather Data ETL + Dashboard
