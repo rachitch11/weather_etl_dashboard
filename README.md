@@ -1,11 +1,11 @@
-## ✅  Weather Data ETL + Dashboard 
+✅  Weather Data ETL + Dashboard 
 
 ```markdown
-# 🌦️ Weather Data ETL + Dashboard
+ 🌦️ Weather Data ETL + Dashboard
 
 A complete ETL + dashboard system that fetches live weather data from the OpenWeather API, stores it in a local SQLite DB, and visualizes the data in a Streamlit dashboard with dynamic city input.
 
-## 📌 Overview
+📌 Overview
 
 Built to:
 - Fetch real-time weather for any city
@@ -13,7 +13,7 @@ Built to:
 - View temperature, humidity, and pressure trends
 - Support both script-based ETL and UI-based data fetch
 
-## 🚀 Features
+ 🚀 Features
 
 - Modular ETL system (extract, transform, load)
 - Live API fetch via OpenWeatherMap
@@ -22,7 +22,7 @@ Built to:
 - Search city directly from dashboard
 - Save city data from UI or terminal
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 - Python 3.10+
 - Streamlit
@@ -31,7 +31,7 @@ Built to:
 - Altair / Plotly
 - Requests (API calls)
 
-## 📂 Folder Structure
+ 📂 Folder Structure
 
 weather_etl_dashboard/
 ├── etl/
@@ -49,7 +49,7 @@ bash
 Copy
 Edit
 
-## 📦 Installation
+ 📦 Installation
 
 ```bash
 python run_etl.py           # To load initial data
